@@ -1,8 +1,9 @@
+
 # Zainab Belgas
 
 **Final-year AI & Data Engineering Student at EMSI**
 
-I build LLM-based agents and work on data projects, from exploratory analysis and data preparation to model evaluation and reporting. I’m looking for a six-month end-of-studies internship in AI or Data starting in **February 2027**.
+I build LLM-based agents and work on data projects, from exploratory analysis and data preparation to model evaluation and reporting. 
 
 ## Experience
 
@@ -26,7 +27,7 @@ I build LLM-based agents and work on data projects, from exploratory analysis an
 
 ## Certifications
 
-- **Oracle Fusion AI Agent Studio Certified Foundations Associate - Rel 1** — Oracle, issued January 2026.
+- **Oracle Fusion AI Agent Studio Certified Foundations Associate - Rel 1** — Oracle, issued January 2026. [View Oracle badge](https://catalog-education.oracle.com/ords/certview/sharebadge_m?id=9BF32350704689B4B72C3ED51132850FA56B3254DC2066E36FAD7C0641A166A6)
 - **IBM Data Science Professional Certificate** — IBM.
 
 ## Course certificates
