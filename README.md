@@ -1,4 +1,3 @@
-[README.md](https://github.com/user-attachments/files/35238784/README.md)
 # Zainab Belgas
 
 **Final-year AI & Data Engineering Student at EMSI**
